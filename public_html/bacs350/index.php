@@ -9,6 +9,8 @@
     $page_title = "Nic's Brain";
     
     $content = '
+    
+    <img src="profile.jpg" alt="profile picture" style="width:300px;height:300px;">
         <p>
             <a href="..">Home</a>
         </p>
