@@ -17,6 +17,23 @@
         <p> 
             This page is the beginning of an ongoing project in BACS 350.
         </p>
+        
+        <h3>
+    Nicolaus Bomgardner
+</h3>
+
+<h3>
+    My top skills are coding in C#, mobile app development using Xamarin, and being a student.
+</h3>
+
+<h3>
+    The skills I am developing are web design, Unity programming, and cooking. 
+</h3>
+
+<h4>
+    Aspirations - My career goal is to one day work at Microsoft as a program manager for the Xbox division. 
+</h4>
+        
         <p> 
             It is a custom information manager.
         </p>
