@@ -3,7 +3,6 @@
         render_page -- build a page with custom settings
     */
     function render_page($site_title, $page_title, $content) {
-        
         return '
             <!DOCTYPE html>
             <html lang="en">
@@ -15,7 +14,6 @@
                     <link rel="stylesheet" href="style.css">
                 </head>
                 <body>
-                
                     <header>
                         <div class="container-fluid">
                             <div class="row">
@@ -25,8 +23,8 @@
                                 </div>
                                 <div class="logo col-sm-4">
                                     <div class="pull-right">
-                                        <img class="img-rounded img-responsive" 
-                                        src="/bacs350/images/Bear.200.png" 
+                                        <img class="img-rounded img-responsive"
+                                        src="/bacs350/images/Bear.200.png"
                                         alt="UNC Bear" width="150px">
                                     </div>
                                 </div>
