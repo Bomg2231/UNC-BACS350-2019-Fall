@@ -1,1 +1,12 @@
-<h1>Example of ability to commit changes</h1>
+<?php
+
+    require_once 'views.php';
+
+
+    // Read Markdown Text from file
+    $content = render_markdown("Planner.md");
+
+
+    // Display the HTML in the page
+    echo render_page('UNC BACS 350', "Project #4 - Project Planner", $content);
+?>
