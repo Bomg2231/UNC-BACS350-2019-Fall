@@ -1,4 +1,8 @@
+[Planner](index.php)
+
+
 # To Do List for Project #4
+
 
 ## To Do
 * Pull fresh code for BACS350 repo
@@ -16,6 +20,10 @@
 
 
 ## Done
-* nothing done yet
+* Completed project 1 on Aug 30
+* Completed project 2 on Sep 6
+* Completed Superhero project 3 on Sep 13
+* Completed project 4 on Sep 20
+* Changes commited and uploaded
 
 
