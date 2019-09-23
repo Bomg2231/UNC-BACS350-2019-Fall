@@ -6,7 +6,7 @@
 
     $site_title = 'UNC BACS 350';
     
-    $page_title = "Nic's Brain";
+    $page_title = "Nic's Home Page";
     
     $content = '
     
@@ -43,13 +43,22 @@
         
         <ul>
             <li>
-                <a href="demo">Code Demos</a>
+                <a href="https://shrinking-world.com/unc/bacs350">Sensei Home Page</a>
             </li>
             <li>
-                <a href="pattern">Design Patterns</a>
+                <a href="https://bomg2231.com/bacs350/skills/">Skills</a>
             </li>
             <li>
-                <a href="project">Projects</a>
+                <a href="https://bomg2231.com/bacs350/project/">Projects</a>
+            </li>
+            <li>
+                <a href="https://unco.instructure.com/">Canvas</a>
+            </li>
+            <li>
+                <a href="https://github.com/Bomg2231/UNC-BACS350-2019-Fall">Github Repo</a>
+            </li>
+            <li>
+                <a href="https://github.com/Mark-Seaman/UNC-BACS350-Demo">Instructor Repo</a>
             </li>
         </ul>
     ';
