@@ -1,16 +1,29 @@
 <?php
-    /*
-        Superhero Project Workshop
-    */
-    // Get the render_page and render_card functions
-    include 'views.php';
-    // Set custom settings
-    $site_title = 'UNC BACS 350';
-    $page_title = 'Superhero Gallery';
-    $content =
-        render_card("Batman", "The Dark Knight") .
-        render_card("Superman", "Man of Steel")  . 
-        render_card("Green Lantern", "In Brightest Day, In Blackest Night");
-    // Create HTML and output the page
-    echo render_page($site_title, $page_title, $content);
+
+    // Code to define functions
+    require_once 'views.php';
+    require_once 'superhero_views.php';
+    require_once 'superhero_db.php';
+
+
+    // List superhero records
+    $list = render_superheroes(list_superheroes ($db));
+
+    
+    // Button to go to other views
+    $add_button = '<p><a class="button" href="insert.php">Add Subscriber</a></p>';
+
+    
+    $intro = '
+        <p>
+            This email list gives you access to big ideas and deep thoughts.
+        </p>
+        <p>
+            Visit the <a href="https://seamanslog.com">Seaman\'s Log</a> site now to start reading.
+        </p>
+    ';
+    $content = "$intro $add_button $list";
+
+    // Show the page
+    echo render_page('UNC BACS 350', "Nic's List Subscribers", $content);
 ?>
