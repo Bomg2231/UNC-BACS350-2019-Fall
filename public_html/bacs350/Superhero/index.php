@@ -14,15 +14,7 @@
     $add_button = '<p><a class="button" href="insert.php">Add Subscriber</a></p>';
 
     
-    $intro = '
-        <p>
-            This email list gives you access to big ideas and deep thoughts.
-        </p>
-        <p>
-            Visit the <a href="https://seamanslog.com">Seaman\'s Log</a> site now to start reading.
-        </p>
-    ';
-    $content = "$intro $add_button $list";
+    $content = "$add_button $list";
 
     // Show the page
     echo render_page('UNC BACS 350', "Nic's List Subscribers", $content);
