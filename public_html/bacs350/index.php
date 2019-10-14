@@ -10,7 +10,7 @@
     
     $content = '
     
-    <img src="profile.jpg" alt="profile picture" style="width:300px;height:300px;">
+    <img src="profile.jpg" alt="profile picture" style="width:200px;height:300px;">
         <p>
             <a href="..">Home</a>
         </p>
