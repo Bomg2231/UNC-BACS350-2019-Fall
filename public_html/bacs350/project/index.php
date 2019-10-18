@@ -34,10 +34,10 @@
                 <a href="https://bomg2231.com/bacs350/subscriber/index.php">Project 6 (subscriber database)</a>
             </li>
             <li>
-                <a href="https://bomg2231.com/bacs350/Superhero/">Project 7 (superhero now a database)</a>
+                <a href="https://bomg2231.com/bacs350/superhero/">Project 7 (superhero now a database)</a>
             </li>
             <li>
-                <a href="https://bomg2231.com/bacs350/">Project 8 (does not exist it)</a>
+                <a href="https://bomg2231.com/bacs350/notes/index.php">Project 8 (Notes Database)</a>
             </li>
             <li>
                 <a href="https://bomg2231.com/bacs350/">Project 9 (does not exist it)</a>
