@@ -40,10 +40,10 @@
                 <a href="https://bomg2231.com/bacs350/notes/index.php">Project 8 (Notes Database)</a>
             </li>
             <li>
-                <a href="https://bomg2231.com/bacs350/">Project 9 (does not exist it)</a>
+                <a href="https://bomg2231.com/bacs350/review/index.php">Project 9 (Review Manager)</a>
             </li>
             <li>
-                <a href="https://bomg2231.com/bacs350/">Project 10 (does not exist it)</a>
+                <a href="https://bomg2231.com/bacs350/slides.php">Project 10 (Slide Show)</a>
             </li>
             <li>
                 <a href="https://bomg2231.com/bacs350/">Project 11 (does not exist it)</a>
