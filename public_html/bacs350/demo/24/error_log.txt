@@ -1,6 +1,12 @@
-[30-Oct-2019 20:59:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/bomgtwot/public_html/bacs350/demo/24/review_views.php on line 46
-[30-Oct-2019 20:59:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/bomgtwot/public_html/bacs350/demo/24/review_views.php on line 46
-[30-Oct-2019 21:03:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/bomgtwot/public_html/bacs350/demo/24/review_views.php on line 46
-[30-Oct-2019 21:04:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/bomgtwot/public_html/bacs350/demo/24/review_views.php on line 46
-[30-Oct-2019 21:11:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/bomgtwot/public_html/bacs350/demo/24/review_views.php on line 46
-[30-Oct-2019 21:11:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/bomgtwot/public_html/bacs350/demo/24/review_views.php on line 46
+[31-Oct-2019 19:02:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/bomgtwot/public_html/bacs350/demo/24/review_views.php on line 46
+[31-Oct-2019 19:02:31 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/bomgtwot/public_html/bacs350/demo/24/review_db.php on line 17
+[31-Oct-2019 19:02:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/bomgtwot/public_html/bacs350/demo/24/review_views.php on line 46
+[31-Oct-2019 19:05:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/bomgtwot/public_html/bacs350/demo/24/review_views.php on line 46
+[31-Oct-2019 19:05:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/bomgtwot/public_html/bacs350/demo/24/review_views.php on line 46
+[31-Oct-2019 19:07:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/bomgtwot/public_html/bacs350/demo/24/review_views.php on line 46
+[31-Oct-2019 19:07:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/bomgtwot/public_html/bacs350/demo/24/review_views.php on line 46
+[31-Oct-2019 19:08:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/bomgtwot/public_html/bacs350/demo/24/review_views.php on line 46
+[31-Oct-2019 19:09:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/bomgtwot/public_html/bacs350/demo/24/review_views.php on line 46
+[31-Oct-2019 19:10:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/bomgtwot/public_html/bacs350/demo/24/review_views.php on line 46
+[31-Oct-2019 19:10:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/bomgtwot/public_html/bacs350/demo/24/review_views.php on line 46
+[31-Oct-2019 19:11:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home3/bomgtwot/public_html/bacs350/demo/24/review_views.php on line 46
