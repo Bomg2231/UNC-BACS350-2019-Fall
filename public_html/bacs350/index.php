@@ -60,6 +60,9 @@
             <li>
                 <a href="https://github.com/Mark-Seaman/UNC-BACS350-Demo">Instructor Repo</a>
             </li>
+            <li> 
+            <a href = "https://github.com/Bomg2231/UNC-BACS350-2019-Fall">Github Source Code </a>
+            </li>
         </ul>
     ';
 
