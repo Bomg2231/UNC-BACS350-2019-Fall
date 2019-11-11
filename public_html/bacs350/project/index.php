@@ -43,13 +43,13 @@
                 <a href="https://bomg2231.com/bacs350/review/index.php">Project 9 (Review Manager)</a>
             </li>
             <li>
-                <a href="https://bomg2231.com/bacs350/slides.php">Project 10 (Slide Show)</a>
+                <a href="https://bomg2231.com/bacs350/slides/">Project 10 (Slide Show)</a>
             </li>
             <li>
-                <a href="https://bomg2231.com/bacs350/">Project 11 (does not exist it)</a>
+                <a href="https://bomg2231.com/bacs350/">Project 11 (we skipped this)</a>
             </li>
             <li>
-                <a href="https://bomg2231.com/bacs350/">Project 12 (does not exist it)</a>
+                <a href="https://bomg2231.com/bacs350/">Project 12 (Integrated Brain)</a>
             </li>
             <li>
                 <a href="https://bomg2231.com/bacs350/">Project 13 (does not exist it)</a>
