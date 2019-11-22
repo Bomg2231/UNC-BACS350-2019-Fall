@@ -57,9 +57,6 @@
             <li>
                 <a href="https://bomg2231.com/bacs350/">Project 14 (does not exist it)</a>
             </li>
-            <li>
-                <a href="https://bomg2231.com/bacs350/">Project 15 (does not exist it)</a>
-            </li>
         </ul>
     ';
 

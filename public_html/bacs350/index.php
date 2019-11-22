@@ -43,6 +43,9 @@
         
         <ul>
             <li>
+                <a href="https://bomg2231.com/bacs350/team.php">Project Team</a> 
+            </li>
+            <li>
                 <a href="https://shrinking-world.com/unc/bacs350">Sensei Home Page</a>
             </li>
             <li>
